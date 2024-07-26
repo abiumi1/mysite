@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1721966630,
-      "updated": 1721967196,
+      "updated": 1721967328,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721966630,
-        "updated": 1721966973,
+        "updated": 1721967328,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -93,27 +93,29 @@
             "name": "di-lab2.jpg",
             "size": 70535
           }
-        ]
+        ],
+        "status": ""
       }
     },
     {
       "id": "item-6b3121b0-a9bf-474f-a1fa-5fc3ae50f491",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-6b3121b0-a9bf-474f-a1fa-5fc3ae50f491/index.html",
-      "slug": "welcome-copy",
-      "order": 1,
-      "parent": null,
+      "slug": "welcome/welcome-copy",
+      "order": 0,
+      "parent": "item-1bfd9d5a-4bb8-470b-a7cb-f76ae19d0783",
       "title": "Welcome Copy",
       "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721967243,
-        "updated": 1721967277,
+        "updated": 1721967328,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     }
   ]
