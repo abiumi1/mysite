@@ -3,7 +3,7 @@
 <channel>
   <title>mysite</title>
   <link>/rss.xml</link>
-  <description></description>
+  <description>own course</description>
   <copyright>Copyright (C) 2024 </copyright>
   <language>en-us</language>
   <lastBuildDate>1970-01-20T22:19:26.630Z</lastBuildDate>
@@ -15,11 +15,14 @@
     /item-1bfd9d5a-4bb8-470b-a7cb-f76ae19d0783
     </link>
     <description>
-        <![CDATA[ <p>
+        <![CDATA[ 
+<p data-accent="0" data-primary="19">
     To get started, hit the edit pencil on the side.
     Now this content is editable in place so select and delete it to get started!
     If you need to learn more about the HAX editor or HAXcms check out <a href="https://haxtheweb.org/ux-concepts" target="_blank" rel="noopener noreferrer">HAXTheWeb.org</a>!
-</p> ]]>
+</p>
+<h2 data-original-level="H2" id="header-b461e324-980f-99b3-bb60-c109e8da8b88"><mark role="textbox">Literasi ​Digital</mark></h2>
+ ]]>
     </description>
     <category></category>
     <guid>

@@ -49,12 +49,17 @@
       "order": 0,
       "parent": null,
       "title": "Welcome",
-      "description": "",
+      "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
       "metadata": {
         "created": 1721966630,
-        "updated": 1721966630
+        "updated": 1721966973,
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {}
       }
     }
-  ],
-  "location": "/_sites/mysite/index.html"
+  ]
 }
