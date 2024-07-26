@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>mysite</title>
+  <link>/rss.xml</link>
+  <description></description>
+  <copyright>Copyright (C) 2024 </copyright>
+  <language>en-us</language>
+  <lastBuildDate>1970-01-20T22:19:26.630Z</lastBuildDate>
+  <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+  
+  <item>
+    <title>Welcome</title>
+    <link>
+    /item-1bfd9d5a-4bb8-470b-a7cb-f76ae19d0783
+    </link>
+    <description>
+        <![CDATA[ <p>
+    To get started, hit the edit pencil on the side.
+    Now this content is editable in place so select and delete it to get started!
+    If you need to learn more about the HAX editor or HAXcms check out <a href="https://haxtheweb.org/ux-concepts" target="_blank" rel="noopener noreferrer">HAXTheWeb.org</a>!
+</p> ]]>
+    </description>
+    <category></category>
+    <guid>
+    /item-1bfd9d5a-4bb8-470b-a7cb-f76ae19d0783
+    </guid>
+    <pubDate>1970-01-20T22:19:26.630Z</pubDate>
+  </item>
+</channel>
+</rss>
