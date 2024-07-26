@@ -1,60 +1,60 @@
 {
-    "name": "{{ title }}",
-    "short_name": "{{ short }}",
-    "description": "{{ description }}",
+    "name": "belajar web",
+    "short_name": "mysite",
+    "description": "own course",
     "icons": [
         {
-            "src": "{{ logo48x48 }}",
+            "src": "files/haxcms-managed/48x48-Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
             "sizes": "48x48",
             "type": "image\/png",
             "density": "1.0"
         },
         {
-            "src": "{{ logo72x72 }}",
+            "src": "files/haxcms-managed/72x72-Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
             "sizes": "72x72",
             "type": "image\/png",
             "density": "1.5"
         },
         {
-            "src": "{{ logo96x96 }}",
+            "src": "files/haxcms-managed/96x96-Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
             "sizes": "96x96",
             "type": "image\/png",
             "density": "2.0"
         },
         {
-            "src": "{{ logo144x144 }}",
+            "src": "files/haxcms-managed/144x144-Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
             "sizes": "144x144",
             "type": "image\/png",
             "density": "3.0"
         },
         {
-            "src": "{{ logo192x192 }}",
+            "src": "files/haxcms-managed/192x192-Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
             "sizes": "192x192",
             "type": "image\/png",
             "density": "4.0"
         },
         {
-            "src": "{{ logo256x256 }}",
+            "src": "files/haxcms-managed/256x256-Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
             "sizes": "256x256",
             "type": "image\/png",
             "density": "4.0",
             "purpose": "any"
         },
         {
-            "src": "{{ logo512x512 }}",
+            "src": "files/haxcms-managed/512x512-Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
             "sizes": "512x512",
             "type": "image\/png",
             "density": "4.0",
             "purpose": "maskable"
         }
     ],
-    "scope": "{{ basePath }}",
-    "start_url": "{{ basePath }}",
+    "scope": "/mysite/",
+    "start_url": "/mysite/",
     "display": "standalone",
-    "theme_color": "{{ hexCode }}",
-    "background_color": "{{ hexCode }}",
+    "theme_color": "#3f51b5",
+    "background_color": "#3f51b5",
     "dir": "auto",
-    "lang": "{{ lang }}",
+    "lang": "",
     "orientation": "any",
     "display_override": [
       "window-controls-overlay"

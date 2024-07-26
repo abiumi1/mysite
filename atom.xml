@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>mysite</title>
+  <title>belajar web</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>own course</subtitle>
-  <updated>1970-01-20T22:19:26.630Z</updated>
+  <updated>1970-01-20T22:19:27.055Z</updated>
   <author>
       <name></name>
   </author>
