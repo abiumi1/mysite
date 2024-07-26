@@ -58,7 +58,17 @@
         "locked": false,
         "readtime": 1,
         "videos": {},
-        "images": {}
+        "images": {},
+        "files": [
+          {
+            "path": "[object Object]Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
+            "fullUrl": "/D:\\TI\\backend\\hax\\webhax\\ok1\\mysite/files/Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
+            "url": "files/Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
+            "type": "image/jpeg",
+            "name": "Perbedaan-sistem-informasi-dan-teknik-informatika.jpg",
+            "size": 498703
+          }
+        ]
       }
     }
   ]
