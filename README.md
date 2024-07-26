@@ -15,3 +15,4 @@ HAXcms seeks to be the smallest possible back-end CMS to make HAX work and be ab
 
 ## License
 [Apache 2.0](LICENSE.md)
+"# mysite" 
